@@ -1,0 +1,29 @@
+*Main> fourth 2
+16
+*Main> eighth 2
+256
+*Main> r
+3.0
+*Main> poly1 0
+7
+*Main> poly1 5
+-43
+*Main> poly1 (-5)
+207
+*Main> poly2 0
+-5.359375
+*Main> poly2 5
+119.640625
+*Main> poly2 (-5)
+-130.359375
+*Main> triangle 1 2 3
+"scalene"
+*Main> triangle 2 2 3
+"isosceles"
+*Main> triangle 2 3 2
+"isosceles"
+*Main> triangle 3 2 2
+"isosceles"
+*Main> triangle 10 10 10
+"equilateral"
+*Main>
